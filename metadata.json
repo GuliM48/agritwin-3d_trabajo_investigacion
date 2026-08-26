@@ -1,0 +1,6 @@
+{
+  "name": "AgriTwin 3D: Interoperable Digital Twin for Precision Agriculture",
+  "description": "3D Digital Twin architecture for precision agriculture harmonizing UAV, Sentinel-2 satellite, SoilGrids, and farm management data via OGC SensorThings, AgGateway ADAPT, and APSIM-XGBoost yield prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
